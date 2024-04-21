@@ -27,12 +27,6 @@ export const App = () => {
 
       default:
     }
-
-    // this.setState(prevState => {
-    //   return {
-    //     [feedback]: prevState[feedback] + 1,
-    //   };
-    // });
   };
 
   const countTotalFeedback = () => {
